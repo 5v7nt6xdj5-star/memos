@@ -134,4 +134,5 @@ Memos is open-source software licensed under the [MIT License](LICENSE).
   <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge.svg" />
 </a>
 # Hello 👋
-I'm Dennis, learning GitHub and software development.
+I'm Dennis, learning GitHub and software development.exit
+exit()
